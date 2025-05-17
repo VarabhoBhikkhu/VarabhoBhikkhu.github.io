@@ -1,75 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sitename.example/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/tradition/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/tradition/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/visita_monasterio/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/visita_monasterio/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/visita_monasterio/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/visita_monasterio/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/posts/2025-06-07/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/posts/2025-06-07/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/posts/2025-06-08/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/posts/2025-06-08/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/posts/2025-06-09/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/posts/2025-06-09/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/blog/posts/2025-06-10/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/blog/posts/2025-06-10/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/en/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/en/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/en/tradition/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/en/tradition/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/en/visita_monasterio/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/en/visita_monasterio/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/es/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/es/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/es/tradition/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/es/tradition/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/es/visita_monasterio/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/es/visita_monasterio/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/readings/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/readings/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/th/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-07/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/th/codeexample/</loc>
+         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-08/</loc>
+         <lastmod>2025-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-09/</loc>
+         <lastmod>2025-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-10/</loc>
+         <lastmod>2025-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://VarabhoBhikkhu.github.io/th/</loc>
+         <lastmod>2025-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://VarabhoBhikkhu.github.io/th/codeexample/</loc>
+         <lastmod>2025-05-17</lastmod>
+    </url>
+    <url>
+         <loc>https://VarabhoBhikkhu.github.io/readings/archive/2025/</loc>
          <lastmod>2025-05-17</lastmod>
     </url>
 </urlset>
