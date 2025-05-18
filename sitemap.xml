@@ -1,75 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/chanting/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/chanting/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/chanting/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/chanting/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/tradition/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/sangha/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/sangha/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/sangha/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/visita_monasterio/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/tradition/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/tradition/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/tradition/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/en/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/visita_monasterio/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/visita_monasterio/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/visita_monasterio/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/en/tradition/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/en/visita_monasterio/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2024-08-23/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2024-08-23/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2024-08-23/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/es/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-07/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-07/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-07/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/es/tradition/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-08%20-%20copia/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-08%20-%20copia/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08%20-%20copia/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/es/visita_monasterio/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-08/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-08/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-09%20-%20copia/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-09%20-%20copia/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09%20-%20copia/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-07/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-09/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-09/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-08/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/news/post/2025-06-10/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-10/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-10/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-09/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/readings/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/2025-06-10/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-07/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-07/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-07/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/th/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-08/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-08/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-08/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/th/codeexample/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-09/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-09/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-09/"/>
     </url>
     <url>
-         <loc>https://VarabhoBhikkhu.github.io/readings/archive/2025/</loc>
-         <lastmod>2025-05-17</lastmod>
+        <loc>https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-10/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-10/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-10/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/chanting/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/chanting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/chanting/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/sangha/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/sangha/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/sangha/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/tradition/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/tradition/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/tradition/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/visita_monasterio/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/visita_monasterio/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/visita_monasterio/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2024-08-23/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2024-08-23/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2024-08-23/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-07/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-07/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-07/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08%20-%20copia/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08%20-%20copia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-08%20-%20copia/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-08/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-08/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09%20-%20copia/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09%20-%20copia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-09%20-%20copia/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-09/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-09/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/news/post/2025-06-10/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/news/post/2025-06-10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/news/post/2025-06-10/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/readings/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-07/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-07/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-07/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-08/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-08/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-08/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-09/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-09/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-09/"/>
+    </url>
+    <url>
+        <loc>https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-10/</loc>
+        <lastmod>2025-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://VarabhoBhikkhu.github.io/es/readings/sessions/2025-06-10/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://VarabhoBhikkhu.github.io/readings/sessions/2025-06-10/"/>
     </url>
 </urlset>
