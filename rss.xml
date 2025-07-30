@@ -3,19 +3,19 @@
 	<channel>
 		<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
-		<link>http://localhost:4000/</link>
+		<link>/https://varabhobhikkhu.github.io</link>
 		<description>Chulapa Jekyll Theme starter pack</description>
 		<language>en-US</language>
-		<copyright>(c) 2025, Your Name</copyright>	
-		<pubDate>Tue, 29 Jul 2025 22:11:59 +0200</pubDate>
-		<lastBuildDate>Tue, 29 Jul 2025 22:11:59 +0200</lastBuildDate>
+		<copyright>(c) 2025, Paññāgiri</copyright>	
+		<pubDate>Wed, 30 Jul 2025 14:16:34 +0200</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 14:16:34 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
-		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="/https://varabhobhikkhu.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
 			<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
 			<url></url>
-			<link>http://localhost:4000/</link>
+			<link>/https://varabhobhikkhu.github.io</link>
 			<description>Chulapa Jekyll Theme starter pack</description>
 		</image><item>
 			<title>Canticos</title>
@@ -157,45 +157,29 @@ contento, fácilmente satisfecho,</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20250521_canticos/</link>
+			<link>/https://varabhobhikkhu.github.io/20250521_canticos/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>current-theme</category><category>header-hero</category><category>image</category><category>skin</category><media:title type="html"><![CDATA[Canticos ]]></media:title>
       <media:content url="https://picsum.photos/id/1018/2000/2000" medium="image"/>
-      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">http://localhost:4000/20250521_canticos/</guid>
+      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20250521_canticos/</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Caminante no hay camino</title>
 			<description>
 				<![CDATA[	
  				<h3>Showing al the different Bootstrap components available</h3>
-    		<p>2 min.</p>
+    		<p>1 min.</p>
 				<div><h1 id="caminante-no-hay-camino">Caminante no hay camino</h1>
-
-<dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term.</dd>
-  <dd>This is another definition of the second term.</dd>
-</dl>
-
-<p>Gone camping! :tent: Be back soon.</p>
-
-<p>That is so funny! :joy:</p>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">vdvvvvdsv</span>
-<span class="n">Se</span> <span class="n">ha</span> <span class="n">asomado</span> <span class="n">una</span> <span class="n">cigüeña</span> <span class="n">a</span> <span class="n">lo</span> <span class="n">alto</span> <span class="k">del</span> <span class="n">campanario</span><span class="p">.</span>
-<span class="n">Girando</span> <span class="n">en</span> <span class="n">torno</span> <span class="n">a</span> <span class="n">la</span> <span class="n">torre</span> <span class="n">y</span> <span class="n">al</span> <span class="n">caserón</span> <span class="n">solitario</span><span class="p">,</span>
-<span class="n">ya</span> <span class="n">las</span> <span class="n">golondrinas</span> <span class="n">chillan</span><span class="p">.</span> <span class="n">Pasaron</span> <span class="k">del</span> <span class="n">blanco</span> <span class="n">invierno</span><span class="p">,</span>
-<span class="n">de</span> <span class="n">nevascas</span> <span class="n">y</span> <span class="n">ventiscas</span> <span class="n">los</span> <span class="n">crudos</span> <span class="n">soplos</span> <span class="n">de</span> <span class="n">infierno</span><span class="p">.</span>
-<span class="n">Es</span> <span class="n">una</span> <span class="n">tibia</span> <span class="n">mañana</span><span class="p">.</span>
-</code></pre></div></div>
 
 <p>Se ha asomado una cigüeña a lo alto del campanario.
 Girando en torno a la torre y al caserón solitario,
 ya las golondrinas chillan. Pasaron del blanco invierno,
-<img src="/assets/images/arco.jpg" align="left" width="200px" />
-some text floating around the image</p>
+de nevascas y ventiscas los crudos soplos de infierno.
+Es una tibia mañana.</p>
+
+<p>Se ha asomado una cigüeña a lo alto del campanario.
+Girando en torno a la torre y al caserón solitario,
+ya las golondrinas chillan. Pasaron del blanco invierno,</p>
 
 <p>de nevascas y ventiscas los crudos soplos de infierno.
 Es una tibia mañana.
@@ -206,10 +190,6 @@ se ve brotar en los finos
 chopos de la carretera
 y del río. El Duero corre, terso y mudo, mansamente.
 El campo parece, más que joven, adolescente.</p>
-
-<h1 id="caminante-no-hay-camino-1">Caminante no hay camino</h1>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1z15g3ZLPIQC6Ac6GdXltmmOrkEsbXs4&amp;ehbc=2E312F" width="640" height="480"></iframe>
 
 <p>Pasados los verdes pinos,
 casi azules, primavera
@@ -222,29 +202,6 @@ El campo parece, más que joven, adolescente.</p>
 azul o blanca. ¡Belleza del campo apenas florido,
 y mística primavera!</p>
 
-<blockquote>
-  <p>Dorothy followed her through many of the beautiful rooms in her castle.</p>
-</blockquote>
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_657dca19fac133d4cce971a3d99d91f405d31da335c77e9b093021626b5bdbb9%40group.calendar.google.com&amp;ctz=Europe%2FMadrid" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Write the press release</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the website</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Contact the media</li>
-</ul>
-
-<p>Here’s a simple footnote,<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> and here’s a longer one.<sup id="fnref:bignote"><a href="#fn:bignote" class="footnote" rel="footnote" role="doc-noteref">2</a></sup></p>
-
-<p><img src="/assets/images/parra.jpg" align="right" width="400px" />
-some text floating around the image</p>
-
-<blockquote>
-
-  <p>The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with w</p>
-
-</blockquote>
-
 <p>¡Chopos del camino blanco, álamos de la ribera,
 espuma de la montaña
 ante la azul lejanía;
@@ -254,22 +211,10 @@ sol del día, claro día!
 <p><strong>por Antonio Machado</strong></p>
 
 <h2 id="anoche-cuando-dormía">Anoche cuando dormía</h2>
-<blockquote>
-  <p>fdsf
-fdsdaa</p>
-</blockquote>
 
-<p>Anoche cuando dormía</p>
-
-<blockquote>
-  <p>soñé, ¡bendita ilusión!,
-hgf
-hgfd</p>
-</blockquote>
-
-<p>que una fontana fluía</p>
-
-<p>dentro de mi corazón.</p>
+<p>Anoche cuando dormía
+que una fontana fluía
+dentro de mi corazón.</p>
 
 <p>Di, ¿por qué acequia escondida,
 agua, vienes hasta mí,
@@ -301,24 +246,14 @@ soñé, ¡bendita ilusión!,
 que era Dios lo que tenía
 dentro de mi corazón.</p>
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1">
-      <p>This is the first footnote. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&uarr;</a></p>
-    </li>
-    <li id="fn:bignote">
-      <p>Here’s one with multiple paragraphs and code. <a href="#fnref:bignote" class="reversefootnote" role="doc-backlink">&uarr;</a></p>
-    </li>
-  </ol>
-</div>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20250506_caminante-no-hay-camino/</link>
+			<link>/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>current-theme</category><category>header-hero</category><category>image</category><category>skin</category><media:title type="html"><![CDATA[Caminante no hay camino ]]></media:title>
       <media:content url="https://picsum.photos/id/1018/2000/2000" medium="image"/>
-      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">http://localhost:4000/20250506_caminante-no-hay-camino/</guid>
+      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/</guid>
       <pubDate>Tue, 06 May 2025 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Current skin</title>
@@ -331,7 +266,7 @@ dentro de mi corazón.</p>
 <nav aria-label="Navigation" class="container-lg chulapa-pagination  ">
   <ul class="col-lg-8 offset-lg-2 pagination chulapa-pagination-round px-0 ">
     <li class="page-item text-left mr-0 ">
-      <a class="page-link border-0 px-4" href="http://localhost:4000/20191127_acueduct-of-segovia/" tabindex="-1">
+      <a class="page-link border-0 px-4" href="/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/" tabindex="-1">
 	  <i class="fa fa-chevron-left" aria-hidden="true"></i><span class="sr-only">Previous</span>
 	  </a>
     </li>
@@ -351,7 +286,7 @@ dentro de mi corazón.</p>
 	    <p class="page-link chulapa-label">Caminante no hay camino</p>
 	  </li>
     <li class="page-item text-right ml-0 ">
-      <a class="page-link border-0 px-4" href="http://localhost:4000/20250506_caminante-no-hay-camino/">
+      <a class="page-link border-0 px-4" href="/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/">
 	  <i class="fa fa-chevron-right" aria-hidden="true"></i><span class="sr-only">Next</span></a>
     </li>
   </ul>
@@ -361,7 +296,7 @@ dentro de mi corazón.</p>
   <div class="row">
     <div class="col-lg-8 offset-lg-2 col">
       <i class="far fa-folder-open fa-xs" aria-hidden="true"></i>
-      <a href="http://localhost:4000/categories#skins" class="badge chulapa-pill-bg-secondary p-category" rel="tag">skins</a>
+      <a href="/https://varabhobhikkhu.github.io/categories#skins" class="badge chulapa-pill-bg-secondary p-category" rel="tag">skins</a>
       </div>
     </div>
 </div>
@@ -370,15 +305,15 @@ dentro de mi corazón.</p>
   <div class="row">
     <div class="col-lg-8 offset-lg-2 col">
       <i class="fas fa-tag mr-1 fa-xs" aria-hidden="true"></i>
-      <a href="http://localhost:4000/tags#skin" class="badge chulapa-pill-bg-primary p-category" rel="tag">skin</a>
+      <a href="/https://varabhobhikkhu.github.io/tags#skin" class="badge chulapa-pill-bg-primary p-category" rel="tag">skin</a>
       
-      <a href="http://localhost:4000/tags#bootstrap" class="badge chulapa-pill-bg-primary p-category" rel="tag">bootstrap</a>
+      <a href="/https://varabhobhikkhu.github.io/tags#bootstrap" class="badge chulapa-pill-bg-primary p-category" rel="tag">bootstrap</a>
       
-      <a href="http://localhost:4000/tags#current-theme" class="badge chulapa-pill-bg-primary p-category" rel="tag">current-theme</a>
+      <a href="/https://varabhobhikkhu.github.io/tags#current-theme" class="badge chulapa-pill-bg-primary p-category" rel="tag">current-theme</a>
       
-      <a href="http://localhost:4000/tags#header-hero" class="badge chulapa-pill-bg-primary p-category" rel="tag">header-hero</a>
+      <a href="/https://varabhobhikkhu.github.io/tags#header-hero" class="badge chulapa-pill-bg-primary p-category" rel="tag">header-hero</a>
       
-      <a href="http://localhost:4000/tags#image" class="badge chulapa-pill-bg-primary p-category" rel="tag">image</a>
+      <a href="/https://varabhobhikkhu.github.io/tags#image" class="badge chulapa-pill-bg-primary p-category" rel="tag">image</a>
       </div>
     </div>
 </div>
@@ -438,26 +373,20 @@ dentro de mi corazón.</p>
       <div class="bs-component">
         <!-- Chulapa classic navbar expanding in lg or above --><nav class="navbar navbar-expand-lg sticky-top navbar-chulapa border border-light my-2">
           <div class="container-fluid mx-md-2">
-            <a class="navbar-brand font-weight-bold" href="http://localhost:4000/">Default</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <a class="navbar-brand font-weight-bold" href="/https://varabhobhikkhu.github.io/">Default</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarToggler">
               <ul class="navbar-nav ml-auto"><li class="nav-item">
-                  <a class="nav-link " href="http://localhost:4000/blog/">Noticias</a>
+                  <a class="nav-link " href="/https://varabhobhikkhu.github.io/blog/">Noticias</a>
                 </li><li class="nav-item">
-                  <a class="nav-link " href="http://localhost:4000/cheatsheets">Cheatsheets</a>
+                  <a class="nav-link " href="/https://varabhobhikkhu.github.io/direccion">Como llegar</a>
                 </li><li class="nav-item">
-                  <a class="nav-link " href="http://localhost:4000/direccion">Como llegar</a>
+                  <a class="nav-link " href="/https://varabhobhikkhu.github.io/visit">Visita</a>
+                </li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle " href="#" id="Secciones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Secciones</a>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Secciones"><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/publicaciones">Publicaciones</a><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/canticos">Cánticos</a><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/mantenimiento">Mantenimiento</a><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/cocina">Cocina</a><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/archive">Archive</a><a class="dropdown-item " href="/https://varabhobhikkhu.github.io/tradicion">Tradicion</a></div>
                 </li><li class="nav-item">
-                  <a class="nav-link " href="http://localhost:4000/visit">Visita</a>
-                </li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle " href="#" id="Extras" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Extras</a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Extras"><a class="dropdown-item " href="http://localhost:4000/tags">Tags</a><a class="dropdown-item " href="http://localhost:4000/categories">Categories</a><a class="dropdown-item " href="http://localhost:4000/archive">Archive</a><a class="dropdown-item " href="http://localhost:4000/current-skin">Current skin</a><a class="dropdown-item " href="http://localhost:4000/tradicion">Tradicion</a></div>
-                </li><li class="nav-item">
-                  <a class="nav-link " href="https://dieghernan.github.io/chulapa/docs/01-install">Docs</a>
-                </li><li class="nav-item">
-                  <a class="nav-link " href="https://github.com/dieghernan/chulapa-101/generate">Use this template</a>
-                </li><li class="nav-item">
-                  <a class="nav-link " href="http://localhost:4000/search">
+                  <a class="nav-link " href="/https://varabhobhikkhu.github.io/search">
                     <span class="d-md-none p-0 pr-1">Search</span>
                     <i class="fa fa-search" aria-hidden="true"></i>
                     <span class="sr-only">Search</span>
@@ -1940,11 +1869,11 @@ dentro de mi corazón.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20201231_current-skin/</link>
+			<link>/https://varabhobhikkhu.github.io/20201231_current-skin/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>current-theme</category><category>header-hero</category><category>image</category><category>skin</category><media:title type="html"><![CDATA[Current skin ]]></media:title>
       <media:content url="https://picsum.photos/id/1018/2000/2000" medium="image"/>
-      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">http://localhost:4000/20201231_current-skin/</guid>
+      <media:thumbnail url="https://picsum.photos/id/1018/2000/2000" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20201231_current-skin/</guid>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>The Acueduct of Segovia</title>
@@ -1956,11 +1885,11 @@ dentro de mi corazón.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20191127_acueduct-of-segovia/</link>
+			<link>/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/</link>
 			<category>posts</category>
 		    <category>downtown</category><category>landscape</category><category>project-links</category><category>trips</category><media:title type="html"><![CDATA[The Acueduct of Segovia ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" /><guid isPermaLink="true">http://localhost:4000/20191127_acueduct-of-segovia/</guid>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/</guid>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>A landing page</title>
@@ -1972,11 +1901,11 @@ dentro de mi corazón.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20190803_landing-page/</link>
+			<link>/https://varabhobhikkhu.github.io/20190803_landing-page/</link>
 			<category>posts</category>
 		    <category>demo</category><category>example</category><category>guest-author</category><category>layout</category><media:title type="html"><![CDATA[A landing page ]]></media:title>
       <media:content url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" medium="image"/>
-      <media:thumbnail url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" /><guid isPermaLink="true">http://localhost:4000/20190803_landing-page/</guid>
+      <media:thumbnail url="https://dieghernan.github.io/chulapa/assets/img/site/transparent.png" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20190803_landing-page/</guid>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Dean Village</title>
@@ -1996,11 +1925,11 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20190502_dean-village/</link>
+			<link>/https://varabhobhikkhu.github.io/20190502_dean-village/</link>
 			<category>posts</category>
 		    <category>bootstrap</category><category>downtown</category><category>edinburgh</category><category>kramdown</category><category>landscape</category><category>trips</category><media:title type="html"><![CDATA[Dean Village ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" /><guid isPermaLink="true">http://localhost:4000/20190502_dean-village/</guid>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20190502_dean-village/</guid>
       <pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
 		</item><item>
 			<title>Urban art</title>
@@ -2016,11 +1945,11 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20181109_urban_art/</link>
+			<link>/https://varabhobhikkhu.github.io/20181109_urban_art/</link>
 			<category>posts</category>
 		    <category>downtown</category><category>street</category><category>urban art</category><media:title type="html"><![CDATA[Urban art ]]></media:title>
       <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" medium="image"/>
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" /><guid isPermaLink="true">http://localhost:4000/20181109_urban_art/</guid>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg" /><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20181109_urban_art/</guid>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Flake it till you make it</title>
@@ -2038,9 +1967,9 @@ to understand <code class="language-plaintext highlighter-rouge">.blockquote-foo
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150226_flake-it-till-you-make-it/</link>
+			<link>/https://varabhobhikkhu.github.io/20150226_flake-it-till-you-make-it/</link>
 			<category>posts</category>
-		    <guid isPermaLink="true">http://localhost:4000/20150226_flake-it-till-you-make-it/</guid>
+		    <guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150226_flake-it-till-you-make-it/</guid>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Test markdown</title>
@@ -2110,9 +2039,9 @@ foo(3)
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150220_test-markdown/</link>
+			<link>/https://varabhobhikkhu.github.io/20150220_test-markdown/</link>
 			<category>posts</category>
-		    <category>markdown</category><guid isPermaLink="true">http://localhost:4000/20150220_test-markdown/</guid>
+		    <category>markdown</category><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150220_test-markdown/</guid>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>To be</title>
@@ -2158,9 +2087,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150213_hamlet-monologue/</link>
+			<link>/https://varabhobhikkhu.github.io/20150213_hamlet-monologue/</link>
 			<category>posts</category>
-		    <guid isPermaLink="true">http://localhost:4000/20150213_hamlet-monologue/</guid>
+		    <guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150213_hamlet-monologue/</guid>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Dear diary</title>
@@ -2172,9 +2101,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150127_dear-diary/</link>
+			<link>/https://varabhobhikkhu.github.io/20150127_dear-diary/</link>
 			<category>posts</category>
-		    <category>diary</category><category>random</category><category>school</category><guid isPermaLink="true">http://localhost:4000/20150127_dear-diary/</guid>
+		    <category>diary</category><category>random</category><category>school</category><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150127_dear-diary/</guid>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Soccer</title>
@@ -2190,9 +2119,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150119_soccer/</link>
+			<link>/https://varabhobhikkhu.github.io/20150119_soccer/</link>
 			<category>posts</category>
-		    <guid isPermaLink="true">http://localhost:4000/20150119_soccer/</guid>
+		    <guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150119_soccer/</guid>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>Pirates arrrr</title>
@@ -2204,9 +2133,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150115_pirates/</link>
+			<link>/https://varabhobhikkhu.github.io/20150115_pirates/</link>
 			<category>posts</category>
-		    <category>pirates</category><category>random</category><guid isPermaLink="true">http://localhost:4000/20150115_pirates/</guid>
+		    <category>pirates</category><category>random</category><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150115_pirates/</guid>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0100</pubDate>
 		</item><item>
 			<title>First post!</title>
@@ -2218,9 +2147,9 @@ Be all my sins remembered.</p>
 </div>
 				]]>
 			</description>
-			<link>http://localhost:4000/20150104_first-post/</link>
+			<link>/https://varabhobhikkhu.github.io/20150104_first-post/</link>
 			<category>posts</category>
-		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">http://localhost:4000/20150104_first-post/</guid>
+		    <category>exciting-stuff</category><category>random</category><guid isPermaLink="true">/https://varabhobhikkhu.github.io/20150104_first-post/</guid>
       <pubDate>Sun, 04 Jan 2015 00:00:00 +0100</pubDate>
 		</item></channel>
 </rss>
