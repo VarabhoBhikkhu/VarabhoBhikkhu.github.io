@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
-	<link href="/https://varabhobhikkhu.github.io/atom.xml" rel="self" type="application/atom+xml" />
-	<link href="/https://varabhobhikkhu.github.io" rel="alternate" type="text/html" />
-	<updated>2025-07-30T14:16:34+02:00</updated>
-	<id>/https://varabhobhikkhu.github.io/atom.xml</id>
+	<link href="/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="" rel="alternate" type="text/html" />
+	<updated>2025-07-30T18:33:57+02:00</updated>
+	<id>/atom.xml</id>
 	<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
 	<subtitle>Chulapa Jekyll Theme starter pack</subtitle>
 	<author>
@@ -15,11 +15,11 @@
 	
 	<logo></logo><entry>
 		<title type="html">Canticos</title>
-		<link href="/https://varabhobhikkhu.github.io/20250521_canticos/" rel="alternate" type="text/html" title="Canticos"/>
+		<link href="/20250521_canticos/" rel="alternate" type="text/html" title="Canticos"/>
 		<published>2025-05-21T00:00:00+02:00</published>
 		<updated>2021-02-03T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20250521_canticos/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20250521_canticos/">
+		<id>/20250521_canticos/</id>
+		<content type="html" xml:base="/20250521_canticos/">
 		
 		
 		&lt;h3&gt;Showing al the different Bootstrap components available&lt;/h3&gt;
@@ -170,11 +170,11 @@ contento, fácilmente satisfecho,&lt;/p&gt;
 		<category term="bootstrap"/><category term="current-theme"/><category term="header-hero"/><category term="image"/><category term="skin"/>
 	</entry><entry>
 		<title type="html">Caminante no hay camino</title>
-		<link href="/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/" rel="alternate" type="text/html" title="Caminante no hay camino"/>
+		<link href="/20250506_caminante-no-hay-camino/" rel="alternate" type="text/html" title="Caminante no hay camino"/>
 		<published>2025-05-06T00:00:00+02:00</published>
 		<updated>2021-02-03T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/">
+		<id>/20250506_caminante-no-hay-camino/</id>
+		<content type="html" xml:base="/20250506_caminante-no-hay-camino/">
 		
 		
 		&lt;h3&gt;Showing al the different Bootstrap components available&lt;/h3&gt;
@@ -271,11 +271,11 @@ dentro de mi corazón.&lt;/p&gt;
 		<category term="bootstrap"/><category term="current-theme"/><category term="header-hero"/><category term="image"/><category term="skin"/>
 	</entry><entry>
 		<title type="html">Current skin</title>
-		<link href="/https://varabhobhikkhu.github.io/20201231_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
+		<link href="/20201231_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
 		<published>2020-12-31T00:00:00+01:00</published>
 		<updated>2021-02-03T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20201231_current-skin/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20201231_current-skin/">
+		<id>/20201231_current-skin/</id>
+		<content type="html" xml:base="/20201231_current-skin/">
 		
 		
 		&lt;h3&gt;Showing al the different Bootstrap components available&lt;/h3&gt;
@@ -289,7 +289,7 @@ dentro de mi corazón.&lt;/p&gt;
 &lt;nav aria-label=&quot;Navigation&quot; class=&quot;container-lg chulapa-pagination  &quot;&gt;
   &lt;ul class=&quot;col-lg-8 offset-lg-2 pagination chulapa-pagination-round px-0 &quot;&gt;
     &lt;li class=&quot;page-item text-left mr-0 &quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/&quot; tabindex=&quot;-1&quot;&gt;
+      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;/20191127_acueduct-of-segovia/&quot; tabindex=&quot;-1&quot;&gt;
 	  &lt;i class=&quot;fa fa-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
 	  &lt;/a&gt;
     &lt;/li&gt;
@@ -309,7 +309,7 @@ dentro de mi corazón.&lt;/p&gt;
 	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;Caminante no hay camino&lt;/p&gt;
 	  &lt;/li&gt;
     &lt;li class=&quot;page-item text-right ml-0 &quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;/https://varabhobhikkhu.github.io/20250506_caminante-no-hay-camino/&quot;&gt;
+      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;/20250506_caminante-no-hay-camino/&quot;&gt;
 	  &lt;i class=&quot;fa fa-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;&lt;/a&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -319,7 +319,7 @@ dentro de mi corazón.&lt;/p&gt;
   &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
       &lt;i class=&quot;far fa-folder-open fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/categories#skins&quot; class=&quot;badge chulapa-pill-bg-secondary p-category&quot; rel=&quot;tag&quot;&gt;skins&lt;/a&gt;
+      &lt;a href=&quot;/categories#skins&quot; class=&quot;badge chulapa-pill-bg-secondary p-category&quot; rel=&quot;tag&quot;&gt;skins&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -328,15 +328,15 @@ dentro de mi corazón.&lt;/p&gt;
   &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-lg-8 offset-lg-2 col&quot;&gt;
       &lt;i class=&quot;fas fa-tag mr-1 fa-xs&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/tags#skin&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;skin&lt;/a&gt;
+      &lt;a href=&quot;/tags#skin&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;skin&lt;/a&gt;
       
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/tags#bootstrap&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;bootstrap&lt;/a&gt;
+      &lt;a href=&quot;/tags#bootstrap&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;bootstrap&lt;/a&gt;
       
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/tags#current-theme&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;current-theme&lt;/a&gt;
+      &lt;a href=&quot;/tags#current-theme&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;current-theme&lt;/a&gt;
       
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/tags#header-hero&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;header-hero&lt;/a&gt;
+      &lt;a href=&quot;/tags#header-hero&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;header-hero&lt;/a&gt;
       
-      &lt;a href=&quot;/https://varabhobhikkhu.github.io/tags#image&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;image&lt;/a&gt;
+      &lt;a href=&quot;/tags#image&quot; class=&quot;badge chulapa-pill-bg-primary p-category&quot; rel=&quot;tag&quot;&gt;image&lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -396,20 +396,20 @@ dentro de mi corazón.&lt;/p&gt;
       &lt;div class=&quot;bs-component&quot;&gt;
         &lt;!-- Chulapa classic navbar expanding in lg or above --&gt;&lt;nav class=&quot;navbar navbar-expand-lg sticky-top navbar-chulapa border border-light my-2&quot;&gt;
           &lt;div class=&quot;container-fluid mx-md-2&quot;&gt;
-            &lt;a class=&quot;navbar-brand font-weight-bold&quot; href=&quot;/https://varabhobhikkhu.github.io/&quot;&gt;Default&lt;/a&gt;&lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarToggler&quot; aria-controls=&quot;navbarToggler&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
+            &lt;a class=&quot;navbar-brand font-weight-bold&quot; href=&quot;/&quot;&gt;Default&lt;/a&gt;&lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarToggler&quot; aria-controls=&quot;navbarToggler&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;
               &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;
             &lt;/button&gt;
             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarToggler&quot;&gt;
               &lt;ul class=&quot;navbar-nav ml-auto&quot;&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;/https://varabhobhikkhu.github.io/blog/&quot;&gt;Noticias&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;/blog/&quot;&gt;Noticias&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;/https://varabhobhikkhu.github.io/direccion&quot;&gt;Como llegar&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;/direccion&quot;&gt;Como llegar&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;/https://varabhobhikkhu.github.io/visit&quot;&gt;Visita&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;/visit&quot;&gt;Visita&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item dropdown&quot;&gt;&lt;a class=&quot;nav-link dropdown-toggle &quot; href=&quot;#&quot; id=&quot;Secciones&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Secciones&lt;/a&gt;
-                  &lt;div class=&quot;dropdown-menu dropdown-menu-right&quot; aria-labelledby=&quot;Secciones&quot;&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/publicaciones&quot;&gt;Publicaciones&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/canticos&quot;&gt;Cánticos&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/mantenimiento&quot;&gt;Mantenimiento&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/cocina&quot;&gt;Cocina&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/archive&quot;&gt;Archive&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/https://varabhobhikkhu.github.io/tradicion&quot;&gt;Tradicion&lt;/a&gt;&lt;/div&gt;
+                  &lt;div class=&quot;dropdown-menu dropdown-menu-right&quot; aria-labelledby=&quot;Secciones&quot;&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/publicaciones&quot;&gt;Publicaciones&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/canticos&quot;&gt;Cánticos&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/mantenimiento&quot;&gt;Mantenimiento&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/cocina&quot;&gt;Cocina&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/archive&quot;&gt;Archive&lt;/a&gt;&lt;a class=&quot;dropdown-item &quot; href=&quot;/tradicion&quot;&gt;Tradicion&lt;/a&gt;&lt;/div&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;/https://varabhobhikkhu.github.io/search&quot;&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;/search&quot;&gt;
                     &lt;span class=&quot;d-md-none p-0 pr-1&quot;&gt;Search&lt;/span&gt;
                     &lt;i class=&quot;fa fa-search&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
                     &lt;span class=&quot;sr-only&quot;&gt;Search&lt;/span&gt;
@@ -1900,11 +1900,11 @@ dentro de mi corazón.&lt;/p&gt;
 		<category term="bootstrap"/><category term="current-theme"/><category term="header-hero"/><category term="image"/><category term="skin"/>
 	</entry><entry>
 		<title type="html">The Acueduct of Segovia</title>
-		<link href="/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/" rel="alternate" type="text/html" title="The Acueduct of Segovia"/>
+		<link href="/20191127_acueduct-of-segovia/" rel="alternate" type="text/html" title="The Acueduct of Segovia"/>
 		<published>2019-11-27T00:00:00+01:00</published>
 		<updated>2019-11-27T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20191127_acueduct-of-segovia/">
+		<id>/20191127_acueduct-of-segovia/</id>
+		<content type="html" xml:base="/20191127_acueduct-of-segovia/">
 		
 		
 		&lt;h3&gt;20 centuries ago&lt;/h3&gt;
@@ -1925,11 +1925,11 @@ dentro de mi corazón.&lt;/p&gt;
 		<category term="downtown"/><category term="landscape"/><category term="project-links"/><category term="trips"/>
 	</entry><entry>
 		<title type="html">A landing page</title>
-		<link href="/https://varabhobhikkhu.github.io/20190803_landing-page/" rel="alternate" type="text/html" title="A landing page"/>
+		<link href="/20190803_landing-page/" rel="alternate" type="text/html" title="A landing page"/>
 		<published>2019-08-03T00:00:00+02:00</published>
 		<updated>2019-08-03T00:00:00+02:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20190803_landing-page/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20190803_landing-page/">
+		<id>/20190803_landing-page/</id>
+		<content type="html" xml:base="/20190803_landing-page/">
 		
 		
 		&lt;h3&gt;With image header&lt;/h3&gt;
@@ -1948,355 +1948,4 @@ dentro de mi corazón.&lt;/p&gt;
 </summary>
 		<category term="posts"/>
 		<category term="demo"/><category term="example"/><category term="guest-author"/><category term="layout"/>
-	</entry><entry>
-		<title type="html">Dean Village</title>
-		<link href="/https://varabhobhikkhu.github.io/20190502_dean-village/" rel="alternate" type="text/html" title="Dean Village"/>
-		<published>2019-05-02T00:00:00+02:00</published>
-		<updated>2019-05-02T00:00:00+02:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20190502_dean-village/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20190502_dean-village/">
-		
-  		
-			&lt;img src=&#39;https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg&#39; &gt;
-			
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Dean Village&lt;/strong&gt; (from &lt;em&gt;dene&lt;/em&gt;, meaning ‘&lt;em&gt;deep valley&lt;/em&gt;’) is a former village immediately northwest of the city centre of Edinburgh, Scotland. It was known as the “Water of Leith Village” and was the centre of a successful grain milling area for more than 800 years. At one time there were no fewer than eleven working mills there, driven by the strong currents of the Water of Leith.&lt;/p&gt;
-
-  &lt;p class=&quot;blockquote-footer&quot;&gt;From &lt;a href=&quot;https://en.wikipedia.org/wiki/Dean_Village&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;That was a blockquote with a footer added via kramdown. See &lt;a href=&quot;https://getbootstrap.com/docs/4.5/content/typography/&quot;&gt;Bootstrap Typography&lt;/a&gt; 
-to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.blockquote-footer&lt;/code&gt; class.
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg&quot; alt=&quot;Dean Village&quot; /&gt;&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name></name></author>
-		<summary type="html">&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Dean Village&lt;/strong&gt; (from &lt;em&gt;dene&lt;/em&gt;, meaning ‘&lt;em&gt;deep valley&lt;/em&gt;’) is a former village immediately northwest of the city centre of Edinburgh, Scotland. It was known as the “Water of Leith Village” and was the centre of a successful grain milling area for more than 800 years. At one time there were no fewer than eleven working mills there, driven by the strong currents of the Water of Leith.&lt;/p&gt;
-
-  &lt;p class=&quot;blockquote-footer&quot;&gt;From &lt;a href=&quot;https://en.wikipedia.org/wiki/Dean_Village&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</summary>
-		<category term="posts"/>
-		<category term="bootstrap"/><category term="downtown"/><category term="edinburgh"/><category term="kramdown"/><category term="landscape"/><category term="trips"/>
-	</entry><entry>
-		<title type="html">Urban art</title>
-		<link href="/https://varabhobhikkhu.github.io/20181109_urban_art/" rel="alternate" type="text/html" title="Urban art"/>
-		<published>2018-11-09T00:00:00+01:00</published>
-		<updated>2018-11-09T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20181109_urban_art/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20181109_urban_art/">
-		
-		
-		&lt;h3&gt;Creativity is everywhere&lt;/h3&gt;
-		
-  		
-			&lt;img src=&#39;https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg&#39; &gt;
-			
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;Urban artists can use anything as a canvas to express their art&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg&quot; alt=&quot;Grunge is not dead&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;caption&quot;&gt;Picture by &lt;a href=&quot;https://commons.m.wikimedia.org/wiki/User:Zarateman&quot;&gt;Zarateman&lt;/a&gt;&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name></name></author>
-		<summary type="html">&lt;p&gt;Urban artists can use anything as a canvas to express their art&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="downtown"/><category term="street"/><category term="urban art"/>
-	</entry><entry>
-		<title type="html">Flake it till you make it</title>
-		<link href="/https://varabhobhikkhu.github.io/20150226_flake-it-till-you-make-it/" rel="alternate" type="text/html" title="Flake it till you make it"/>
-		<published>2015-02-26T00:00:00+01:00</published>
-		<updated>2018-09-21T00:00:00+02:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150226_flake-it-till-you-make-it/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150226_flake-it-till-you-make-it/">
-		
-		
-		&lt;h3&gt;Excerpt from Soulshaping by Jeff Brown&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;2 min.&lt;/p&gt;
-			&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-
-&lt;p&gt;The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.&lt;/p&gt;
-
-&lt;p&gt;At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.&lt;/p&gt;
-
-&lt;p&gt;A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		
-	</entry><entry>
-		<title type="html">Test markdown</title>
-		<link href="/https://varabhobhikkhu.github.io/20150220_test-markdown/" rel="alternate" type="text/html" title="Test markdown"/>
-		<published>2015-02-20T00:00:00+01:00</published>
-		<updated>2015-02-20T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150220_test-markdown/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150220_test-markdown/">
-		
-		
-		&lt;h3&gt;Each post also has a subtitle&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Here is some bold text&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;here-is-a-secondary-heading&quot;&gt;Here is a secondary heading&lt;/h2&gt;
-
-&lt;p&gt;Here’s a useless table:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Number&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Next number&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Previous number&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Five&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Six&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Four&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Ten&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Eleven&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Nine&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Seven&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Eight&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Six&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Two&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Three&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;One&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;How about a yummy crepe?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg&quot; alt=&quot;Crepe&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s a code chunk:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;And here is the same code with syntax highlighting:&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="markdown"/>
-	</entry><entry>
-		<title type="html">To be</title>
-		<link href="/https://varabhobhikkhu.github.io/20150213_hamlet-monologue/" rel="alternate" type="text/html" title="To be"/>
-		<published>2015-02-13T00:00:00+01:00</published>
-		<updated>2015-02-13T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150213_hamlet-monologue/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150213_hamlet-monologue/">
-		
-		
-		&lt;h3&gt;… or not to be?&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;To be, or not to be–that is the question:
-Whether ‘tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep–
-No more–and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. ‘Tis a consummation
-Devoutly to be wished. To die, to sleep–
-To sleep–perchance to dream: ay, there’s the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There’s the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th’ oppressor’s wrong, the proud man’s contumely
-The pangs of despised love, the law’s delay,
-The insolence of office, and the spurns
-That patient merit of th’ unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o’er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;To be, or not to be–that is the question:
-Whether ‘tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep–
-No more–and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. ‘Tis a consummation
-Devoutly to be wished. To die, to sleep–
-To sleep–perchance to dream: ay, there’s the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There’s the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th’ oppressor’s wrong, the proud man’s contumely
-The pangs of despised love, the law’s delay,
-The insolence of office, and the spurns
-That patient merit of th’ unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o’er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		
-	</entry><entry>
-		<title type="html">Dear diary</title>
-		<link href="/https://varabhobhikkhu.github.io/20150127_dear-diary/" rel="alternate" type="text/html" title="Dear diary"/>
-		<published>2015-01-27T00:00:00+01:00</published>
-		<updated>2015-01-27T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150127_dear-diary/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150127_dear-diary/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive!  I’m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive!  I’m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="diary"/><category term="random"/><category term="school"/>
-	</entry><entry>
-		<title type="html">Soccer</title>
-		<link href="/https://varabhobhikkhu.github.io/20150119_soccer/" rel="alternate" type="text/html" title="Soccer"/>
-		<published>2015-01-19T00:00:00+01:00</published>
-		<updated>2015-01-19T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150119_soccer/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150119_soccer/">
-		
-		
-		&lt;h3&gt;Best sport ever!&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;From Wikipedia:&lt;/p&gt;
-
-&lt;p&gt;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.&lt;/p&gt;
-
-&lt;p&gt;The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.[7]&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;From Wikipedia:&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		
-	</entry><entry>
-		<title type="html">Pirates arrrr</title>
-		<link href="/https://varabhobhikkhu.github.io/20150115_pirates/" rel="alternate" type="text/html" title="Pirates arrrr"/>
-		<published>2015-01-15T00:00:00+01:00</published>
-		<updated>2015-01-15T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150115_pirates/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150115_pirates/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="pirates"/><category term="random"/>
-	</entry><entry>
-		<title type="html">First post!</title>
-		<link href="/https://varabhobhikkhu.github.io/20150104_first-post/" rel="alternate" type="text/html" title="First post!"/>
-		<published>2015-01-04T00:00:00+01:00</published>
-		<updated>2015-01-04T00:00:00+01:00</updated>
-		<id>/https://varabhobhikkhu.github.io/20150104_first-post/</id>
-		<content type="html" xml:base="/https://varabhobhikkhu.github.io/20150104_first-post/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>Paññāgiri</name><uri></uri></author>
-		<summary type="html">&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="exciting-stuff"/><category term="random"/>
 	</entry></feed>
