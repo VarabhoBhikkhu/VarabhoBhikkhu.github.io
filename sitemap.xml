@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/cheatsheets/01-markdown-cheat-sheet</loc>
-<lastmod>2025-07-30T18:33:57+02:00</lastmod>
+<lastmod>2025-07-31T00:38:03+02:00</lastmod>
 </url>
 <url>
 <loc>/cheatsheets/02-kramdown-cheat-sheet</loc>
-<lastmod>2025-07-30T18:33:57+02:00</lastmod>
+<lastmod>2025-07-31T00:38:03+02:00</lastmod>
 </url>
 <url>
-<loc>/20190803_landing-page/</loc>
-<lastmod>2019-08-03T00:00:00+02:00</lastmod>
+<loc>/19600506_narracion-masia/</loc>
+<lastmod>1960-02-03T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>/20191127_acueduct-of-segovia/</loc>
@@ -22,10 +22,6 @@
 </url>
 <url>
 <loc>/20250506_caminante-no-hay-camino/</loc>
-<lastmod>2021-02-03T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>/20250521_canticos/</loc>
 <lastmod>2021-02-03T00:00:00+01:00</lastmod>
 </url>
 <url>
@@ -60,6 +56,9 @@
 <loc>/mantenimiento</loc>
 </url>
 <url>
+<loc>/masia</loc>
+</url>
+<url>
 <loc>/publicaciones</loc>
 </url>
 <url>
@@ -73,9 +72,6 @@
 </url>
 <url>
 <loc>/visit</loc>
-</url>
-<url>
-<loc>/blog/page2/</loc>
 </url>
 <url>
 <loc>/assets/docs/manuales/ROLL%208%20IMCN0083.0.23.11.pdf</loc>
