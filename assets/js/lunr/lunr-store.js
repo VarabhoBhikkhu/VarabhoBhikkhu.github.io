@@ -54,6 +54,16 @@ var store = [{
       "url": "/20201231_current-skin/",
       "img": "https://picsum.photos/id/1018/2000/2000"
     },{
+    "title": "Ceremonia de Apertura",
+    "subtitle": "Día de inauguración",
+    "excerpt": "Ceremonia de Apertura",
+    "content": "Ceremonia de Apertura   La ceremonia de apertura esta oficiada por Achan Amaro, abad del monasterio Amaravati en Inglaterra.   Ceremonia de apertura",
+      "categories": ["sangha"],
+      "date": "2024-10-09",
+      "tags": ["sangha"],
+      "url": "/20241009_ceremonia-apertura/",
+      "img": "https://i.imgur.com/Y3fAr6q.jpg"
+    },{
     "title": "Visitas desde Portugal",
     "subtitle": "Nuestros hermanos nos visitan",
     "excerpt": "Visitas desde Portugal",

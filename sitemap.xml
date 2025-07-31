@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/cheatsheets/01-markdown-cheat-sheet</loc>
-<lastmod>2025-07-31T14:52:33+02:00</lastmod>
+<lastmod>2025-07-31T21:54:28+02:00</lastmod>
 </url>
 <url>
 <loc>/cheatsheets/02-kramdown-cheat-sheet</loc>
-<lastmod>2025-07-31T14:52:33+02:00</lastmod>
+<lastmod>2025-07-31T21:54:28+02:00</lastmod>
 </url>
 <url>
 <loc>/19600506_narracion-masia/</loc>
@@ -19,6 +19,10 @@
 <url>
 <loc>/20201231_current-skin/</loc>
 <lastmod>2021-02-03T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/20241009_ceremonia-apertura/</loc>
+<lastmod>2024-10-09T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>/20250406_visitas-portugal/</loc>
@@ -109,11 +113,19 @@
 </url>
 <url>
 <loc>/assets/docs/pdf/main-es-vol1.pdf</loc>
-<lastmod>2025-07-29T08:58:31+02:00</lastmod>
+<lastmod>2025-07-31T16:20:05+02:00</lastmod>
 </url>
 <url>
 <loc>/assets/docs/pdf/main-es-vol2.pdf</loc>
-<lastmod>2025-07-29T08:58:31+02:00</lastmod>
+<lastmod>2025-07-31T16:28:24+02:00</lastmod>
+</url>
+<url>
+<loc>/assets/docs/pdf/photobookpannagiri_cat.pdf</loc>
+<lastmod>2025-07-31T18:42:05+02:00</lastmod>
+</url>
+<url>
+<loc>/assets/docs/pdf/photobookpannagiri_es.pdf</loc>
+<lastmod>2025-07-31T18:41:34+02:00</lastmod>
 </url>
 <url>
 <loc>/assets/docs/pdf/retreat-pannagiri.pdf</loc>

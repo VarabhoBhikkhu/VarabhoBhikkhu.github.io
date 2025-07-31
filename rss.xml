@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Thu, 31 Jul 2025 14:52:33 +0200</pubDate>
-		<lastBuildDate>Thu, 31 Jul 2025 14:52:33 +0200</lastBuildDate>
+		<pubDate>Thu, 31 Jul 2025 21:54:28 +0200</pubDate>
+		<lastBuildDate>Thu, 31 Jul 2025 21:54:28 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -125,19 +125,19 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
   <div class="carousel-inner">
         <div class="carousel-item active" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -145,7 +145,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -286,6 +286,28 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
       <media:thumbnail url="https://i.imgur.com/l0y7ujF.jpg" /><guid isPermaLink="true">/20250406_visitas-portugal/</guid>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
 		</item><item>
+			<title>Ceremonia de Apertura</title>
+			<description>
+				<![CDATA[	
+ 				<h3>Día de inauguración</h3>
+    		<p>1 min.</p>
+				<div><h1 id="ceremonia-de-apertura">Ceremonia de Apertura</h1>
+
+<p>La ceremonia de apertura esta oficiada por Achan Amaro, abad del monasterio Amaravati en Inglaterra.</p>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DCoLIUc" data-context="false"><a href="//imgur.com/a/DCoLIUc">Ceremonia de apertura</a></blockquote>
+<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+</div>
+				]]>
+			</description>
+			<link>/20241009_ceremonia-apertura/</link>
+			<category>posts</category>
+		    <category>sangha</category><media:title type="html"><![CDATA[Ceremonia de Apertura ]]></media:title>
+      <media:content url="https://i.imgur.com/Y3fAr6q.jpg" medium="image"/>
+      <media:thumbnail url="https://i.imgur.com/Y3fAr6q.jpg" /><guid isPermaLink="true">/20241009_ceremonia-apertura/</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0200</pubDate>
+		</item><item>
 			<title>Current skin</title>
 			<description>
 				<![CDATA[	
@@ -310,13 +332,13 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	   <p class="page-link">|</p>
 	  </li>	
 	  <li class="page-item border-0 disabled text-right mr-0 ml-auto d-none d-sm-inline d-md-none ">
-	    <p class="page-link chulapa-label">Visitas desde ...</p>
+	    <p class="page-link chulapa-label">Ceremonia de A...</p>
 	  </li>
 	  <li class="page-item border-0 disabled text-right mr-0 ml-auto d-none d-md-inline ">
-	    <p class="page-link chulapa-label">Visitas desde Portugal</p>
+	    <p class="page-link chulapa-label">Ceremonia de Apertura</p>
 	  </li>
     <li class="page-item text-right ml-0 ">
-      <a class="page-link border-0 px-4" href="/20250406_visitas-portugal/">
+      <a class="page-link border-0 px-4" href="/20241009_ceremonia-apertura/">
 	  <i class="fa fa-chevron-right" aria-hidden="true"></i><span class="sr-only">Next</span></a>
     </li>
   </ul>
