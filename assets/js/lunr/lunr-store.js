@@ -107,11 +107,11 @@ var store = [{
     "title": "Reconstrucción muro",
     "subtitle": "Reconstrucción del muro exterior",
     "excerpt": "Reconstrucción del muro",
-    "content": "Reconstrucción del muro    Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.      Técnica a imitar   En este video, un señor explica como es la técnica para hacer muros secos.",
+    "content": "Reconstrucción del muro Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra. Muro Técnica a imitar En este video, un señor explica como es la técnica para hacer muros secos....",
       "categories": ["mantenimiento"],
       "date": "2025-07-06",
       "tags": ["mantenimiento","exterior"],
-      "url": "/20250706_reconstruyendo-muro-copy/",
+      "url": "/20250706_reconstruyendo-muro/",
       "img": "https://i.imgur.com/1YugDqf.jpg"
     },{
     "title": "Reparación de encimera",
@@ -129,7 +129,7 @@ var store = [{
     "excerpt": "A demo page checking Markdown",
     "content": "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
       "categories": ["tutorial"],
-      "date": "2025-07-31",
+      "date": "2025-08-01",
       "tags": ["starter","syntax","markdown"],
       "url": "/cheatsheets/01-markdown-cheat-sheet",
       "img": null
@@ -139,7 +139,7 @@ var store = [{
     "excerpt": "kramdown supercharges Markdown with some interesting features.",
     "content": "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
       "categories": ["tutorial"],
-      "date": "2025-07-31",
+      "date": "2025-08-01",
       "tags": ["starter","syntax","kramdown"],
       "url": "/cheatsheets/02-kramdown-cheat-sheet",
       "img": null
