@@ -97,7 +97,7 @@ var store = [{
     "title": "Preparando chimenea para buddha y horno",
     "subtitle": "Demolición de la chimenea",
     "excerpt": "Demolición de la chimenea",
-    "content": "Demolición de la chimenea   Preparando espacio para Buddha Rupa.    En el futuro se instalará un horno de leña a la derecha del Buddha, al final de la habitación.",
+    "content": "Demolición de la chimenea Preparando espacio para Buddha Rupa. Inminente instalación de hornos de leña En el futuro se instalará un horno de leña a la derecha del Buddha, al...",
       "categories": ["mantenimiento"],
       "date": "2025-07-06",
       "tags": ["mantenimiento","interior"],
