@@ -24,6 +24,16 @@ var store = [{
       "url": "/direccion",
       "img": null
     },{
+    "title": "Mantenimiento",
+    "subtitle": "",
+    "excerpt": "",
+    "content": "Calendario de mantenimiento Manuales de usuario Máquina de Coser Singer5802 Lavadoras LG ThinQ 9/13Kg Lavavajillas Bosch Serie4 SilencePlus Corta Césped Impresora HP DeskJet2823e Noticias relacionadas con trabajos en el monasterio...",
+      "categories": null,
+      "date": null,
+      "tags": null,
+      "url": "/mantenimiento",
+      "img": null
+    },{
     "title": "La Masía",
     "subtitle": "Historia de antaño",
     "excerpt": "L’Aragall 1956 - 1968",
@@ -118,9 +128,19 @@ var store = [{
     "subtitle": "Encimera podrida, Achan Nanadassano la repara",
     "excerpt": "Reparación de encimera",
     "content": "Reparación de encimera La encimera está podrida y en proceso de reparación. Sentimos mucho las inconveniencias que pueda causar, pero sino cambiamos la madera se va a venir todo para...",
-      "categories": ["sangha"],
+      "categories": ["mantenimiento"],
       "date": "2025-07-06",
-      "tags": ["sangha","tudong"],
+      "tags": ["mantenimiento","interior"],
       "url": "/20250706_reparacion-encimera/",
       "img": "https://i.imgur.com/ZmGqtDq.jpg"
+    },{
+    "title": "Preparando chimenea para buddha y horno",
+    "subtitle": "Demolición de la chimenea",
+    "excerpt": "Demolición de la chimenea",
+    "content": "Demolición de la chimenea Preparando espacio para Buddha Rupa. Inminente instalación de hornos de leña En el futuro se instalará un horno de leña a la derecha del Buddha, al...",
+      "categories": ["mantenimiento"],
+      "date": "2024-07-09",
+      "tags": ["mantenimiento","interior"],
+      "url": "/mantenimiento/2024-07-9-demolicion-chimenea/",
+      "img": "https://i.imgur.com/3AXu6Zn.jpg"
     }]
