@@ -27,7 +27,7 @@ var store = [{
     "title": "Mantenimiento",
     "subtitle": "",
     "excerpt": "",
-    "content": "Calendario de mantenimiento Manuales de usuario Máquina de Coser Singer5802 Lavadoras LG ThinQ 9/13Kg Lavavajillas Bosch Serie4 SilencePlus Corta Césped Impresora HP DeskJet2823e Noticias relacionadas con trabajos en el monasterio...",
+    "content": "Calendario de mantenimiento Calendario de visitantes Manuales de usuario Máquina de Coser Singer5802 Lavadoras LG ThinQ 9/13Kg Lavavajillas Bosch Serie4 SilencePlus Corta Césped Impresora HP DeskJet2823e Consumo de agua Noticias...",
       "categories": null,
       "date": null,
       "tags": null,
@@ -86,7 +86,7 @@ var store = [{
     },{
     "title": "Caminante no hay camino",
     "subtitle": "Descripcion del tudong 2025 Malaga Pannagiri",
-    "excerpt": "Caminante no hay camino",
+    "excerpt": "",
     "content": "Caminante no hay camino Proverbios y cantares (XXIX) Caminante, son tus huellas el camino y nada más; Caminante, no hay camino, se hace camino al andar. Al andar se hace...",
       "categories": ["sangha"],
       "date": "2025-05-06",
