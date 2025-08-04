@@ -60,11 +60,17 @@
 <loc>/cocina</loc>
 </url>
 <url>
+<loc>/contabilidad</loc>
+</url>
+<url>
 <loc>/current-skin</loc>
 <lastmod>2018-02-07T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>/direccion</loc>
+</url>
+<url>
+<loc>/estancias</loc>
 </url>
 <url>
 <loc>/blog/</loc>

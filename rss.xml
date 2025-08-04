@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Sun, 03 Aug 2025 18:46:00 +0200</pubDate>
-		<lastBuildDate>Sun, 03 Aug 2025 18:46:00 +0200</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 07:05:48 +0200</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 07:05:48 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -130,11 +130,11 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
   <div class="carousel-inner">
         <div class="carousel-item active" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -146,11 +146,11 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -417,7 +417,7 @@ sino estelas en la mar.</p>
                 </li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle " href="#" id="Comunidad" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Comunidad</a>
                   <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Comunidad"><a class="dropdown-item " href="/visit">Visita</a><a class="dropdown-item " href="/direccion">Como llegar</a><a class="dropdown-item " href="/masia">L'Aragall</a></div>
                 </li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle " href="#" id="Secciones" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Secciones</a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Secciones"><a class="dropdown-item " href="/publicaciones">Publicaciones</a><a class="dropdown-item " href="/canticos">Cánticos</a><a class="dropdown-item " href="/mantenimiento">Mantenimiento</a><a class="dropdown-item " href="/cocina">Cocina</a><a class="dropdown-item " href="/archive">Archivo</a><a class="dropdown-item " href="/tradicion">Tradición</a></div>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="Secciones"><a class="dropdown-item " href="/publicaciones">Publicaciones</a><a class="dropdown-item " href="/canticos">Cánticos</a><a class="dropdown-item " href="/mantenimiento">Mantenimiento</a><a class="dropdown-item " href="/estancias">Estancias</a><a class="dropdown-item " href="/cocina">Cocina</a><a class="dropdown-item " href="/archive">Archivo</a><a class="dropdown-item " href="/tradicion">Tradición</a></div>
                 </li><li class="nav-item">
                   <a class="nav-link " href="/search">
                     <span class="d-md-none p-0 pr-1">Search</span>
