@@ -44,26 +44,6 @@ var store = [{
       "url": "/19600506_narracion-masia/",
       "img": "/assets/images/arco.jpg"
     },{
-    "title": "The Acueduct of Segovia",
-    "subtitle": "20 centuries ago",
-    "excerpt": "The Aqueduct of Segovia (Spanish: Acueducto de Segovia; more accurately, the aqueduct bridge) is a Roman aqueduct in Segovia, Spain. It is one of the best-preserved elevated Roman aqueducts and the foremost symbol of Segovia, as evidenced by its presence on the city’s coat of arms.",
-    "content": "The Aqueduct of Segovia (Spanish: Acueducto de Segovia; more accurately, the aqueduct bridge) is a Roman aqueduct in Segovia, Spain. It is one of the best-preserved elevated Roman aqueducts and...",
-      "categories": ["picture"],
-      "date": "2019-11-27",
-      "tags": ["landscape","trips","downtown","project-links"],
-      "url": "/20191127_acueduct-of-segovia/",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
-    },{
-    "title": "Current skin",
-    "subtitle": "Showing al the different Bootstrap components available",
-    "excerpt": "This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration.",
-    "content": "This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration. Previous The Acueduct of Segovia The Acueduct o......",
-      "categories": ["skins"],
-      "date": "2020-12-31",
-      "tags": ["skin","bootstrap","current-theme","header-hero","image"],
-      "url": "/20201231_current-skin/",
-      "img": "https://picsum.photos/id/1018/2000/2000"
-    },{
     "title": "Ceremonia de Apertura",
     "subtitle": "Día de inauguración",
     "excerpt": "Ceremonia de Apertura",
@@ -143,14 +123,4 @@ var store = [{
       "tags": ["sangha"],
       "url": "/20250804_visita-montserrat/",
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Montserrat_des_de_Manresa.JPG"
-    },{
-    "title": "Preparando chimenea para buddha y horno",
-    "subtitle": "Demolición de la chimenea",
-    "excerpt": "Demolición de la chimenea",
-    "content": "Demolición de la chimenea Preparando espacio para Buddha Rupa. Inminente instalación de hornos de leña En el futuro se instalará un horno de leña a la derecha del Buddha, al...",
-      "categories": ["mantenimiento"],
-      "date": "2024-07-09",
-      "tags": ["mantenimiento","interior"],
-      "url": "/mantenimiento/2024-07-9-demolicion-chimenea/",
-      "img": "https://i.imgur.com/3AXu6Zn.jpg"
     }]

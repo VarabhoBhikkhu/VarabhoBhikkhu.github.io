@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/mantenimiento/2024-07-9-demolicion-chimenea/</loc>
-<lastmod>2024-07-06T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>/19600506_narracion-masia/</loc>
 <lastmod>1960-02-03T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>/20191127_acueduct-of-segovia/</loc>
-<lastmod>2019-11-27T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>/20201231_current-skin/</loc>
-<lastmod>2021-02-03T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>/20241009_ceremonia-apertura/</loc>
