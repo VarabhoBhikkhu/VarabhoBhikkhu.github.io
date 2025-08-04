@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Mon, 04 Aug 2025 16:58:49 +0200</pubDate>
-		<lastBuildDate>Mon, 04 Aug 2025 16:58:49 +0200</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 21:04:27 +0200</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 21:04:27 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,28 @@
 			<link></link>
 			<description>Pagina interna del monasterio</description>
 		</image><item>
+			<title>Visita a Montserrat</title>
+			<description>
+				<![CDATA[	
+ 				<h3>Nos llevan de excursion a Montserrat</h3>
+    		<p>1 min.</p>
+				<div><h1 id="nos-llevan-a-montserrat">Nos llevan a Montserrat</h1>
+
+<p>Gracias Anna y Pep celebrando su 20 aniversario.</p>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1zSyEG9"><a href="//imgur.com/a/1zSyEG9">Visita Montserrat 2025-08-04</a></blockquote>
+<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+</div>
+				]]>
+			</description>
+			<link>/20250804_visita-montserrat/</link>
+			<category>posts</category>
+		    <category>sangha</category><media:title type="html"><![CDATA[Visita a Montserrat ]]></media:title>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Montserrat_des_de_Manresa.JPG" medium="image"/>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Montserrat_des_de_Manresa.JPG" /><guid isPermaLink="true">/20250804_visita-montserrat/</guid>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0200</pubDate>
+		</item><item>
 			<title>Reparación de encimera</title>
 			<description>
 				<![CDATA[	
@@ -134,11 +156,11 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -150,7 +172,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     

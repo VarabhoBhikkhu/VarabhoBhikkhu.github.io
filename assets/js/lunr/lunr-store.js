@@ -134,6 +134,16 @@ var store = [{
       "url": "/20250706_reparacion-encimera/",
       "img": "https://i.imgur.com/ZmGqtDq.jpg"
     },{
+    "title": "Visita a Montserrat",
+    "subtitle": "Nos llevan de excursion a Montserrat",
+    "excerpt": "Nos llevan a Montserrat",
+    "content": "Nos llevan a Montserrat   Gracias Anna y Pep celebrando su 20 aniversario.   Visita Montserrat 2025-08-04",
+      "categories": ["sangha"],
+      "date": "2025-08-04",
+      "tags": ["sangha"],
+      "url": "/20250804_visita-montserrat/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Montserrat_des_de_Manresa.JPG"
+    },{
     "title": "Preparando chimenea para buddha y horno",
     "subtitle": "Demolición de la chimenea",
     "excerpt": "Demolición de la chimenea",
