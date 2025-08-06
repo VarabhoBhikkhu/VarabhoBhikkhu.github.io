@@ -87,7 +87,7 @@ var store = [{
     "title": "Preparando chimenea para buddha y horno",
     "subtitle": "Demolición de la chimenea",
     "excerpt": "Demolición de la chimenea",
-    "content": "Demolición de la chimenea Preparando espacio para Buddha Rupa. Inminente instalación de hornos de leña En el futuro se instalará un horno de leña a la derecha del Buddha, al...",
+    "content": "Demolición de la chimenea   Preparando espacio para Buddha Rupa.   Inminente instalación de hornos de leña   chimenea y hornos de leña",
       "categories": ["mantenimiento"],
       "date": "2025-07-06",
       "tags": ["mantenimiento","interior"],
@@ -123,4 +123,14 @@ var store = [{
       "tags": ["sangha"],
       "url": "/20250804_visita-montserrat/",
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Montserrat_des_de_Manresa.JPG"
+    },{
+    "title": "Clases de thailandes",
+    "subtitle": "Kru Pharanee nos enseña",
+    "excerpt": "Clases de Thailandes",
+    "content": "Clases de Thailandes   Gracias Maestra por su ayuda.",
+      "categories": ["sangha"],
+      "date": "2025-08-06",
+      "tags": ["sangha"],
+      "url": "/20250806_clases-de-thailandes/",
+      "img": "https://i.imgur.com/kC3JE3C.jpg"
     }]

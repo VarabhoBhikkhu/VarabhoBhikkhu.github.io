@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="" rel="alternate" type="text/html" />
-	<updated>2025-08-05T21:00:59+02:00</updated>
+	<updated>2025-08-06T07:03:49+02:00</updated>
 	<id>/atom.xml</id>
 	<title>Paññāgiri | El projecto monastico a los pies del Montseny</title>
 	<subtitle>El projecto monastico a los pies del Montseny</subtitle>
@@ -14,6 +14,33 @@
 	<rights>(c) 2025, Paññāgiri</rights>
 	
 	<logo>https://github.com/VarabhoBhikkhu.png</logo><entry>
+		<title type="html">Clases de thailandes</title>
+		<link href="/20250806_clases-de-thailandes/" rel="alternate" type="text/html" title="Clases de thailandes"/>
+		<published>2025-08-06T00:00:00+02:00</published>
+		<updated>2025-08-06T00:00:00+02:00</updated>
+		<id>/20250806_clases-de-thailandes/</id>
+		<content type="html" xml:base="/20250806_clases-de-thailandes/">
+		
+		
+		&lt;h3&gt;Kru Pharanee nos enseña&lt;/h3&gt;
+		
+  		
+			&lt;img src=&#39;https://i.imgur.com/kC3JE3C.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;clases-de-thailandes&quot;&gt;Clases de Thailandes&lt;/h1&gt;
+
+&lt;p&gt;Gracias Maestra por su ayuda.&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Paññāgiri</name><uri></uri></author>
+		<summary type="html">&lt;h1 id=&quot;clases-de-thailandes&quot;&gt;Clases de Thailandes&lt;/h1&gt;
+</summary>
+		<category term="posts"/>
+		<category term="sangha"/>
+	</entry><entry>
 		<title type="html">Visita a Montserrat</title>
 		<link href="/20250804_visita-montserrat/" rel="alternate" type="text/html" title="Visita a Montserrat"/>
 		<published>2025-08-04T00:00:00+02:00</published>
@@ -137,8 +164,8 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.&lt;/p&gt;
 
 &lt;p id=&quot;myid&quot; class=&quot;alert alert-info p-3 mx-2&quot;&gt;&lt;strong&gt;Inminente instalación de hornos de leña&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/UEzkouD.jpg&quot; alt=&quot;&quot; class=&quot;align-left&quot; /&gt;
-En el futuro se instalará un horno de leña a la derecha del Buddha, al final de la habitación.&lt;/p&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/YxjFupk&quot;&gt;&lt;a href=&quot;//imgur.com/a/YxjFupk&quot;&gt;chimenea y hornos de leña&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 
 		</content>
@@ -193,7 +220,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
   &lt;div class=&quot;carousel-inner&quot;&gt;
         &lt;div class=&quot;carousel-item active&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/l3B4zA4.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/HRpHEfj.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
@@ -201,7 +228,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/HRpHEfj.jpg&quot; alt=&quot;Carousel Item #3&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/l3B4zA4.jpg&quot; alt=&quot;Carousel Item #3&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     

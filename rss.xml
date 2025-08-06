@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Tue, 05 Aug 2025 21:00:59 +0200</pubDate>
-		<lastBuildDate>Tue, 05 Aug 2025 21:00:59 +0200</lastBuildDate>
+		<pubDate>Wed, 06 Aug 2025 07:03:49 +0200</pubDate>
+		<lastBuildDate>Wed, 06 Aug 2025 07:03:49 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,24 @@
 			<link></link>
 			<description>Pagina interna del monasterio</description>
 		</image><item>
+			<title>Clases de thailandes</title>
+			<description>
+				<![CDATA[	
+ 				<h3>Kru Pharanee nos enseña</h3>
+    		<p>1 min.</p>
+				<div><h1 id="clases-de-thailandes">Clases de Thailandes</h1>
+
+<p>Gracias Maestra por su ayuda.</p>
+</div>
+				]]>
+			</description>
+			<link>/20250806_clases-de-thailandes/</link>
+			<category>posts</category>
+		    <category>sangha</category><media:title type="html"><![CDATA[Clases de thailandes ]]></media:title>
+      <media:content url="https://i.imgur.com/kC3JE3C.jpg" medium="image"/>
+      <media:thumbnail url="https://i.imgur.com/kC3JE3C.jpg" /><guid isPermaLink="true">/20250806_clases-de-thailandes/</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0200</pubDate>
+		</item><item>
 			<title>Visita a Montserrat</title>
 			<description>
 				<![CDATA[	
@@ -105,8 +123,8 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.</p>
 
 <p id="myid" class="alert alert-info p-3 mx-2"><strong>Inminente instalación de hornos de leña</strong></p>
 
-<p><img src="https://i.imgur.com/UEzkouD.jpg" alt="" class="align-left" />
-En el futuro se instalará un horno de leña a la derecha del Buddha, al final de la habitación.</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YxjFupk"><a href="//imgur.com/a/YxjFupk">chimenea y hornos de leña</a></blockquote>
+<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 </div>
 				]]>
@@ -152,7 +170,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
   <div class="carousel-inner">
         <div class="carousel-item active" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -160,7 +178,7 @@ En el futuro se instalará un horno de leña a la derecha del Buddha, al final d
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #3" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
