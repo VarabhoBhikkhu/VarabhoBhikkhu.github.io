@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="" rel="alternate" type="text/html" />
-	<updated>2025-08-08T13:24:02+02:00</updated>
+	<updated>2025-08-13T10:54:56+02:00</updated>
 	<id>/atom.xml</id>
 	<title>Paññāgiri | El projecto monastico a los pies del Montseny</title>
 	<subtitle>El projecto monastico a los pies del Montseny</subtitle>
@@ -14,6 +14,38 @@
 	<rights>(c) 2025, Paññāgiri</rights>
 	
 	<logo>https://github.com/VarabhoBhikkhu.png</logo><entry>
+		<title type="html">Visita a Tagamanent</title>
+		<link href="/20250812_visita-tagamanent/" rel="alternate" type="text/html" title="Visita a Tagamanent"/>
+		<published>2025-08-12T00:00:00+02:00</published>
+		<updated>2025-08-12T00:00:00+02:00</updated>
+		<id>/20250812_visita-tagamanent/</id>
+		<content type="html" xml:base="/20250812_visita-tagamanent/">
+		
+		
+		&lt;h3&gt;Nos llevan a tagamanent&lt;/h3&gt;
+		
+  		
+			&lt;img src=&#39;https://upload.wikimedia.org/wikipedia/commons/9/95/Castell_Tagamanent-0594sh.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;nos-llevan-a-tagamanent&quot;&gt;Nos llevan a Tagamanent&lt;/h1&gt;
+
+&lt;p&gt;Se han encontrado restos que confirman que hubo asentamientos ibéricos en el enclave del castillo.&lt;/p&gt;
+
+&lt;p&gt;El castillo fue documentado por los cronistas medievales por primera vez en el año 945, y marcaba el límite del condado de Osona y de su arzobispado del cual siempre formó parte. El emblema de Tagamanent es el losanjado de oro y de sable son las armas de los Tagamanent, señores del castillo del pueblo desde 1082. Se sabe que los Condes de Barcelona alrededor del año 1009 disponían de una habitación-residencia en el castillo.&lt;/p&gt;
+
+&lt;p&gt;El castillo era un centro de vigilancia del Valle del Congost, ruta que unía el Vallés y Osona; en el siglo XV el castillo pasó por casamiento a la familia Montbui y después a los Rocaberti, vizcondes de Rocabertí-Perelada aunque con jurisdicción real desde el siglo XVI.&lt;/p&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Paññāgiri</name><uri></uri></author>
+		<summary type="html">&lt;h1 id=&quot;nos-llevan-a-tagamanent&quot;&gt;Nos llevan a Tagamanent&lt;/h1&gt;
+</summary>
+		<category term="posts"/>
+		<category term="sangha"/>
+	</entry><entry>
 		<title type="html">Clases de thailandes</title>
 		<link href="/20250806_clases-de-thailandes/" rel="alternate" type="text/html" title="Clases de thailandes"/>
 		<published>2025-08-06T00:00:00+02:00</published>
@@ -220,7 +252,7 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.&lt;/p&gt;
   &lt;div class=&quot;carousel-inner&quot;&gt;
         &lt;div class=&quot;carousel-item active&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/Xu6gOgj.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/xY8twxK.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
@@ -228,23 +260,23 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.&lt;/p&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/radOxFI.jpg&quot; alt=&quot;Carousel Item #3&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/Xu6gOgj.jpg&quot; alt=&quot;Carousel Item #3&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/xY8twxK.jpg&quot; alt=&quot;Carousel Item #4&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/HRpHEfj.jpg&quot; alt=&quot;Carousel Item #4&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/HRpHEfj.jpg&quot; alt=&quot;Carousel Item #5&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/radOxFI.jpg&quot; alt=&quot;Carousel Item #5&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/QtCJt3g.jpg&quot; alt=&quot;Carousel Item #6&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/YsXyueA.jpg&quot; alt=&quot;Carousel Item #6&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/YsXyueA.jpg&quot; alt=&quot;Carousel Item #7&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/QtCJt3g.jpg&quot; alt=&quot;Carousel Item #7&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;&lt;/div&gt;
   
   &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#Carousel4557&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;

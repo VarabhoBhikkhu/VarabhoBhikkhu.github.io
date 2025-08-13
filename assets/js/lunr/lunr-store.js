@@ -133,4 +133,14 @@ var store = [{
       "tags": ["sangha"],
       "url": "/20250806_clases-de-thailandes/",
       "img": "https://i.imgur.com/kC3JE3C.jpg"
+    },{
+    "title": "Visita a Tagamanent",
+    "subtitle": "Nos llevan a tagamanent",
+    "excerpt": "Nos llevan a Tagamanent",
+    "content": "Nos llevan a Tagamanent Se han encontrado restos que confirman que hubo asentamientos ibéricos en el enclave del castillo. El castillo fue documentado por los cronistas medievales por primera vez...",
+      "categories": ["sangha"],
+      "date": "2025-08-12",
+      "tags": ["sangha"],
+      "url": "/20250812_visita-tagamanent/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/95/Castell_Tagamanent-0594sh.jpg"
     }]
