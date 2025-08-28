@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Thu, 28 Aug 2025 21:02:06 +0200</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 21:02:06 +0200</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 22:10:40 +0200</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 22:10:40 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -43,16 +43,21 @@ Ahora, queda limpiarla, despejarla de mobiliario y ponerle aislante para el invi
 			<description>
 				<![CDATA[	
  				<h3>Nos explican el sistema de aguas fecales o fosa séptica</h3>
-    		<p>2 min.</p>
-				<div><h1 id="fosa-septica">Fosa Septica</h1>
+    		<p>3 min.</p>
+				<div><h2 id="fosa-septica">Fosa Septica</h2>
 
-<p>El Sr Rosendo Matas nos hizo una visita y nos explico amablemente todos los entresijos del canal y el deposito que instalaron en 2016.
+<p>El Sr Rosendo Matas nos hizo una visita y nos explicó amablemente todos los entresijos del canal y el deposito que instalaron en 2016.
 Con anterioridad, las aguas fecales iban a un pozo muerto cerca del actual emplazamiento del tanque.
 Se añaden fotos de la instalación de la tubería de 160mm y la factura que el Sr Rosendo presento en su dia por el coste de la instalación. Increíble que organizado es el senor Matas para encontrar en un momento toda esta documentación de 2016, casi 10 años atrás!!.</p>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1HxBs6JA1my7PiZ3YslBaFdhXxV_iUdUn/edit?usp=drive_link&amp;ouid=110545067529678497967&amp;rtpof=true&amp;sd=true" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<h1 id="correo-del-sr-tomas-pou">Correo del Sr Tomas Pou</h1>
+<h2 id="mantenimiento">Mantenimiento</h2>
+
+<p>El Sr Rosendo nos explicó que el sistema esta dimensionado para 10 a 15 personas, y que el volumen de feces que generamos no es tan grande como para limpiar cada año.
+Él ha visto sistemas que solo se vacían cada muchos años. En caso de necesitar una limpieza nos recomienda que contactemos con la empresa <a href="http://www.ngcentelles.net/">Cuba Centelles</a></p>
+
+<h2 id="correo-del-sr-tomas-pou">Correo del Sr Tomas Pou</h2>
 
 <p>Estimado Sr Serrano.</p>
 
@@ -264,11 +269,11 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.</p>
   <div class="carousel-inner">
         <div class="carousel-item active" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -276,19 +281,19 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.</p>
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/l3B4zA4.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/HRpHEfj.jpg" alt="Carousel Item #6" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/Xu6gOgj.jpg" alt="Carousel Item #7" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #7" itemprop="contentUrl" />
 	</div></div>
   
   <a class="carousel-control-prev" href="#Carousel4557" role="button" data-slide="prev">

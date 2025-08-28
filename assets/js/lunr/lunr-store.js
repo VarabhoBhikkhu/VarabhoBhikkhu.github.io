@@ -147,7 +147,7 @@ var store = [{
     "title": "Aguas fecales",
     "subtitle": "Nos explican el sistema de aguas fecales o fosa séptica",
     "excerpt": "Fosa Septica",
-    "content": "Fosa Septica El Sr Rosendo Matas nos hizo una visita y nos explico amablemente todos los entresijos del canal y el deposito que instalaron en 2016. Con anterioridad, las aguas...",
+    "content": "Fosa Septica El Sr Rosendo Matas nos hizo una visita y nos explicó amablemente todos los entresijos del canal y el deposito que instalaron en 2016. Con anterioridad, las aguas...",
       "categories": ["mantenimiento"],
       "date": "2025-08-27",
       "tags": ["mantenimiento","exterior"],
